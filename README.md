@@ -15,4 +15,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+If you want to support me with a little donation, feel free :) I love everyone who supports my journey <3 <br><br>
+My bitcoin adress -> ![WhatsApp Image 2025-06-16 at 14 14 00](https://github.com/user-attachments/assets/58b26ca8-0d08-4438-9993-95fb5bbce32a)
+
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
