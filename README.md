@@ -28,7 +28,7 @@
 
 <br/>
 
-`YOUR_BITCOIN_ADDRESS_HERE`
+`bc1qnrl45gn7uwf06eveapfhlzklgurtxmwsavhxcj`
 
 </div>
 
