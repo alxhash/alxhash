@@ -24,7 +24,7 @@
 ### Scan to donate BTC
 
 <!-- Ersetze die URL unten mit deinem eigenen QR-Code Bild -->
-<img src="YOUR_QR_CODE_IMAGE_URL" width="180" alt="Bitcoin Wallet QR Code"/>
+<img src="https://github.com/user-attachments/assets/2babea6a-3f16-4f95-ab77-5b75270f16fa" width="180" alt="Bitcoin Wallet QR Code"/>
 
 <br/>
 
